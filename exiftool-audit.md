@@ -236,4 +236,12 @@ Light Value                     : 13.0
 ## 🔍 Metadata Analysis
 * **Device / Camera Model:** Canon PowerShot SX530 HS
 * **Date and Time Taken:** 2022:10:25 13:48:11
-* **Location Data Detected:** The log only yielded `GPS Version ID: 2.3.0.0` without coordinates. Geographic tracking data is absent; therefore, the target image maintains strong location OPSEC as the location permissions were disabled on the device. 
+* **Location Data Detected:** The log only yielded `GPS Version ID: 2.3.0.0` without coordinates. Geographic tracking data is absent; therefore, the target image maintains strong location OPSEC as the location permissions were disabled on the device.
+
+  ## 🛡️ OPSEC Risk Assessment 
+
+Before publishing the raw log, a manual audit was conducted to identify  high-risk hardware identifiers:
+* **Owner Name:** Blank (No real-world identity exposure).
+* **Time Zone / Time Zone City:** Removed from the log to prevent regional tracking.
+* **Camera Serial Number:** Firmware did not record the hardware serial number into the image file.
+
