@@ -1,16 +1,14 @@
-## Hi there 👋
+# Nadia Tubbs | Intelligence Studies & OSINT Portfolio
 
-<!--
-**nadia-tubbs/nadia-tubbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Nadia, a 2nd-year Intelligence Studies student at Fayetteville State University. 
+I focus on open-source intelligence (OSINT), digital footprint mapping, and investigative research.
 
-Here are some ideas to get you started:
+## 🛠️ Technical Tool Proficiency
+* **Metadata Extraction:** ExifTool
+* **Asset Discovery:** SpiderFoot
+* **Username Enumeration:** Sherlock
+* **Environments:** Command Line Interface (CLI), Python execution
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Independent Projects & Case Studies
+* [Case Study: Personal Username OPSEC Audit](./sherlock-audit.md) - Using Sherlock to evaluate personal habits and digital footprint. 
+
