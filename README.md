@@ -5,9 +5,8 @@ I focus on open-source intelligence (OSINT), digital footprint mapping, and inve
 
 ## 🛠️ Technical Tool Proficiency
 * **Metadata Extraction:** ExifTool
-* **Asset Discovery:** SpiderFoot
 * **Username Enumeration:** Sherlock
-* **Environments:** Command Line Interface (CLI), Python execution
+* **Environments:** Command Line Interface, Python execution
 
 ## 📁 Independent Projects
 * [Case Study: Personal Username OPSEC Audit](./sherlock-audit.md) - Using Sherlock to evaluate digital footprint. 
