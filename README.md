@@ -1,6 +1,6 @@
 # Nadia Tubbs | OSINT Portfolio
 
-Hi! I'm Nadia, a 2nd-year Intelligence Studies student at Fayetteville State University. 
+Hi! I'm Nadia, a 2nd-year student at Fayetteville State University. 
 I focus on open-source intelligence (OSINT), digital footprint mapping, and investigative research.
 
 ## 🛠️ Technical Tool Proficiency
