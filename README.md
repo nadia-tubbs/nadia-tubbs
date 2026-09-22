@@ -1,4 +1,4 @@
-# Nadia Tubbs | Intelligence Studies & OSINT Portfolio
+# Nadia Tubbs | OSINT Portfolio
 
 Hi! I'm Nadia, a 2nd-year Intelligence Studies student at Fayetteville State University. 
 I focus on open-source intelligence (OSINT), digital footprint mapping, and investigative research.
