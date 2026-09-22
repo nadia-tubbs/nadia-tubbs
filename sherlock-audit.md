@@ -6,7 +6,7 @@ This log documents the active web nodes discovered during automated Sherlock use
 
 ### Scan 1: Username (stellaax182)
 ```text
- sherlock stellaax182
+> sherlock stellaax182
 [*] Checking username stellaax182 on:
 
 [+] Discord: https://discord.com
