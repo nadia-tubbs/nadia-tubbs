@@ -2,7 +2,7 @@
 
 This log documents discoveries during automated Sherlock username scans, tool errors, and platform limitations.
 
-*Note: All target usernames and generated URLs in this audit have been changed to placeholders to protect personal privacy and maintain OPSEC rules.*
+*Note: All target usernames and generated URLs in this audit have been changed to placeholders to protect personal privacy and maintain OPSEC.*
 
 ## 🔍 Raw Terminal Outputs
 
