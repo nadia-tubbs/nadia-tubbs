@@ -232,6 +232,7 @@ Light Value                     : 13.0
 
 ```
 </details>
+
 ## 🔍 Metadata Analysis
 * **Device / Camera Model:** Canon PowerShot SX530 HS
 * **Date and Time Taken:** 2022:10:25 13:48:11
