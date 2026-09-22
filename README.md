@@ -9,6 +9,6 @@ I focus on open-source intelligence (OSINT), digital footprint mapping, and inve
 * **Username Enumeration:** Sherlock
 * **Environments:** Command Line Interface (CLI), Python execution
 
-## 📁 Independent Projects & Case Studies
+## 📁 Independent Projects
 * [Case Study: Personal Username OPSEC Audit](./sherlock-audit.md) - Using Sherlock to evaluate digital footprint. 
 
