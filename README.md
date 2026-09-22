@@ -11,4 +11,5 @@ I focus on open-source intelligence (OSINT), digital footprint mapping, and inve
 
 ## 📁 Independent Projects
 * [Case Study: Personal Username OPSEC Audit](./sherlock-audit.md) - Using Sherlock to evaluate digital footprint. 
+* [Case Study: Media Metadata Privacy Audit](./exiftool-audit.md) - Discovering and removing geographic and device markers from media.
 
